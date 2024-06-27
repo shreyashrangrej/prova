@@ -7,7 +7,7 @@ export default async function Home() {
 
   return (
     <main className="flex justify-center p-6 space-x-4">
-      <Button>Hello Prova</Button>
+      <Button>Hello Prova and World</Button>
       <ModeToggle />
       <p>Welcome {session?.user?.email}</p>
       <form

@@ -1,7 +1,7 @@
 export default async function BlogPage() {
   return (
     <>
-      <div>Blog Page</div>
+      <div>Blog Page and World</div>
     </>
   );
 }
